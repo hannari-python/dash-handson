@@ -26,7 +26,7 @@
 
 +++?code=app1.py    
 
-+++?image=app1.png
+---?image=app1.png
 
 
 ---
