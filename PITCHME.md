@@ -54,6 +54,12 @@
 ---?image=app4.PNG&size=auto 70%     
 
 +++?code=app4.py     
-- この場合、sliderから年をインプット ==> その年で関数実行 ==> データを上のdcc.Graphに渡す ==> 作図    
+- この場合、sliderから年をインプット ==> その年で関数実行 ==> 関数内のgo.scatterで作図　==> dcc.Graphにそれを渡す       
 
 +++?code=app5.py
+- 3つのコールバックにより、複雑な動きを実現している。     
+- 右の二つのチャートはdef create_time_series()で作られている。     
+     
+
++++?code=app6.py
+
