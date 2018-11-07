@@ -4,6 +4,12 @@
 
 ---
 
+### 自己紹介
+- 小川　英幸([@mazarimono](https://twitter.com/mazarimono))     
+- はんなりPythonの会、Blockchain Kyoto主催    
+- 合同会社長目（ちょうもく）って会社やってます。    
+- そろそろ頑張って働かないとなー。     
+
 ### 今日の予定
 1 Dashの使い方の概要    
 2 データの前処理    
