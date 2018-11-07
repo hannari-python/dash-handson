@@ -26,6 +26,9 @@
 
 +++?code=app1.py    
 
++++?image=app1.PNG    
+
+
 ---
 
 - app = dash.Dash() / アプリの箱作り    
@@ -35,7 +38,6 @@
 - [dash_table](https://dash.plot.ly/datatable) / 11月2日にリリースされた。データが入っているので、多分簡単にグラフが作れる形になっているのだろう。     
 
 
----?image=app1.PNG    
 
 
 ---
