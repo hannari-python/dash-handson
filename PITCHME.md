@@ -25,9 +25,10 @@
 ### 基本的な書き方
 
 +++?code=app1.py    
+- CUIで [ $python app1.py ] とすると・・・    
 
 +++?image=app1.PNG&size=auto 70%    
-
+- チャートが表示されます。     
 
 +++    
 
@@ -35,9 +36,10 @@
 - app.layout = ~~~ / アプリの中身作り     
 - [dash_core_components](https://dash.plot.ly/dash-core-components) / インタラクティブなインターフェースを作る。スライダーとかボタン、グラフもこれを使う。     
 - [dash_html_components](https://dash.plot.ly/dash-html-components) / アプリケーションのHTMLの部分に使う。    
-- [dash_table](https://dash.plot.ly/datatable) / 11月2日にリリースされた。データが入っているので、多分簡単にグラフが作れる形になっているのだろう。     
+- [dash_table](https://dash.plot.ly/datatable) / 11月2日にリリースされた。データを見るのに良い塩梅にしてくれる。     
 
+---    
 
-
+## なんか大したことないよね・・・
 
 ---
