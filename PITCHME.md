@@ -35,7 +35,7 @@
 - [dash_table](https://dash.plot.ly/datatable) / 11月2日にリリースされた。データが入っているので、多分簡単にグラフが作れる形になっているのだろう。     
 
 
----?image=app1.png    
+---?image=app1.PNG    
 
 
 ---
