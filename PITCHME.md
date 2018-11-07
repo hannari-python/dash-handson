@@ -28,6 +28,13 @@
 
 ---
 
+- app = dash.Dash() / アプリの箱作り    
+- app.layout = ~~~ / アプリの中身作り     
+- [dash_core_components](https://dash.plot.ly/dash-core-components) / インタラクティブなインターフェースを作る。スライダーとかボタン、グラフもこれを使う。     
+- [dash_html_components](https://dash.plot.ly/dash-html-components) / アプリケーションのHTMLの部分に使う。    
+- [dash_table](https://dash.plot.ly/datatable) / 11月2日にリリースされた。データが入っているので、多分簡単にグラフが作れる形になっているのだろう。     
+
+
 ---?image=app1.png
 
 
