@@ -29,7 +29,7 @@
 +++?image=app1.PNG&size=auto 70%    
 
 
----
++++    
 
 - app = dash.Dash() / アプリの箱作り    
 - app.layout = ~~~ / アプリの中身作り     
