@@ -26,7 +26,7 @@
 
 +++?code=app1.py    
 
-+++?image=app1.PNG    
++++?image=app1.PNG&size=auto 70%    
 
 
 ---
