@@ -54,6 +54,6 @@
 ---?image=app4.PNG&size=auto 70%     
 
 +++?code=app4.py     
-- この場合、sliderから年をインプットして、その下でその選択された数値を使って関数を実行し、アウトプットとしてデータを返し、app.layout内のdcc.Graphで作図している。    
+- この場合、sliderから年をインプット ==> その年で関数実行 ==> データを上のdcc.Graphに渡す ==> 作図    
 
 
