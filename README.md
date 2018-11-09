@@ -1,3 +1,7 @@
+# スライド
+
+[はんなりPython #11](https://gitpitch.com/hannari-python/dash-handson/master?grs=github&t=simple)
+
 # ハンズオンの準備
 
 このリポジトリをcloneしておいてください。cloneするにはgitコマンドが使える状態である必要があります。
@@ -26,6 +30,17 @@ $ pip install pandas
 $ pip install -U scikit-learn
 ```
 
+必要なライブラリがそろったら `app.py` を実行します。
+
+```
+$ python app1.py
+```
+
+ブラウザでアクセスするとDashのページが表示されます。
+[http://localhost:8050/](http://localhost:8050/)
+
+
+
 ## 方法その2 Dockerを使う方法
 
 [Docker](https://www.docker.com/get-started)ページからインストーラーを使ってインストールしてください。  
@@ -47,6 +62,10 @@ $ docker build -t dash-handson .
 Dockerコンテナを起動します。
 
 ```
-$ docker run --rm -it -v $(pwd):/work dash-handson /bin/bash
+$ docker run --rm -it -v $(pwd):/work -P -p 8050:8050 dash-handson python app1.py
 ```
+
+ブラウザでアクセスするとDashのページが表示されます。
+[http://localhost:8050/](http://localhost:8050/)
+
 
