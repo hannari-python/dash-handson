@@ -1,6 +1,7 @@
-# スライド
+# イベント
 
-[はんなりPython #11](https://gitpitch.com/hannari-python/dash-handson/master?grs=github&t=simple)
+- [はんなりPython #11](https://gitpitch.com/hannari-python/dash-handson/master?grs=github&t=simple)
+- [スライド](https://gitpitch.com/hannari-python/dash-handson/master?grs=github&t=simple)
 
 # ハンズオンの準備
 
