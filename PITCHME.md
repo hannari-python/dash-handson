@@ -101,6 +101,7 @@
 - ちょっと可視化してみます。    
 - グラフの作り方は[plotly](https://plot.ly/python/#style-options)のサイトで調べながら
 - 仕上がりはgithubのapp8.pyです    
+- herokuにあげる[https://dash.plot.ly/deployment](https://dash.plot.ly/deployment)
       
 ---
 
