@@ -31,7 +31,6 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
 		'data': [
 		{'x': [1, 2, 3], 'y': [4, 1, 2], 'type': 'bar', 'name': 'TOKYO'},
 		{'x': [1, 2, 3], 'y': [2, 4, 5], 'type': 'bar', 'name': 'KYOTO'},
-
 		],
 		'layout': {
 		'plot_bgcolor': colors['background'],
