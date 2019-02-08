@@ -12,4 +12,5 @@ RUN pip install dash-html-components==0.13.2
 RUN pip install dash-core-components==0.35.1
 RUN pip install pandas
 RUN pip install -U scikit-learn
-
+RUN pip install flask_cors
+RUN pip install --upgrade pip
